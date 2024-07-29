@@ -5,8 +5,6 @@
 - Auto-generates **kopeechka Private Email Addresses**.
 - Auto-fetches OTP from **kopeechka Inbox**.
 - Auto-Captcha-Solver **Capsolver/Capmonster and more**.
-- Auto-updates Profile Picture to an **AI-Generated Human Face**.
-- Sets a random **AI-Generated Biography** on account creation.
 
 
 ## Legal
