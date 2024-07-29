@@ -10,7 +10,7 @@
 ## Legal
 This tool is for educational purposes only.
 
-
+## Contact & Informations
 **Other Tools:** telegram: https://t.me/toolsocial
 
 **Contact:** telegram: https://t.me/pinkblau
